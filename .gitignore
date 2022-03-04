@@ -6,6 +6,10 @@
 # put any (temporary) files to ignore in ignore directory
 ignore/
 
+# data files too large for source control
+# data at https://www.kaggle.com/olistbr/brazilian-ecommerce
+data/raw/
+
 # python file to add table of contents (toc) to jupyter notebook
 add_toc.py
 # table of contents as text file
