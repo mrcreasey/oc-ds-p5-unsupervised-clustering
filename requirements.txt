@@ -12,4 +12,7 @@ scipy>=1.4.1,<=1.8
 missingno>=0.4.2,<0.6
 dython>=0.6.8
 IPython
+squarify
+yellowbrick
+plotly
 
