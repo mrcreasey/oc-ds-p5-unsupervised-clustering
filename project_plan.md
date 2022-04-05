@@ -29,7 +29,7 @@ pourront utiliser au quotidien pour leurs campagnes de communication.
 
 ## Critères de réussite
 
-- les indicateurs de coportement sont identifiés
+- les indicateurs de comportement sont identifiés
 - les variables pour segmenter sont nettoyés
 
 ## Source d'information
