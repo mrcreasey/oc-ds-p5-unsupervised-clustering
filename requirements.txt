@@ -14,5 +14,5 @@ dython>=0.6.8
 IPython
 squarify
 yellowbrick
-plotly
+holoviews
 
