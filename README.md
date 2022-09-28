@@ -102,8 +102,8 @@ Creation / selection of indicators of customer behaviour :
 
 - Most distinct segmentation based on 5 features : ['MonetaryValue', 'Frequency', 'review_score',
   'mean_nb_payments', 'delivery_delay']: less important features add "noise".
-- Best consistency, silhouette scores and stability for 7 customer segments, divided by small medium and large spenders,
-  frequent/infrequent purchase, and level of satsifaction
+- Best consistency, silhouette scores and stability for 7 customer segments, characterised by small / medium / large purchase,
+  frequent / infrequent purchase, and level of satsifaction
 - Satisfaction very sensitive to departure from forecast delivery time
 - Segments are stable for 2 months; stability depends on season
 
